@@ -23,4 +23,4 @@ node_modules/
 *.sqlite
 
 wp-config.php
-
+docker/wp-config.php
